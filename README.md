@@ -111,6 +111,3 @@ def train_model(ai_brain, X_train, y_train, criterion, optimizer, epochs=2000):
 Thus, a neural network regression model was successfully developed and trained using PyTorch.
 
 
-
-## RESULT
-Thus, a neural network regression model was successfully developed and trained using PyTorch.
